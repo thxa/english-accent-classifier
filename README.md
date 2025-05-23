@@ -1,17 +1,3 @@
----
-title: Audio
-emoji: 🚀
-colorFrom: red
-colorTo: red
-sdk: docker
-app_port: 8501
-tags:
-- streamlit
-pinned: false
-short_description: Streamlit template space
-license: mit
----
-
 # 🎙️ English Accent Classifier
 
 This is a **Streamlit web application** that classifies **English accents** from public video URLs (e.g., Loom, mp4). It uses Hugging Face model and a full audio preprocessing pipeline built on `yt-dlp`, `ffmpeg`, and `torchaudio`.
