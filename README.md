@@ -28,7 +28,7 @@ This is a **Streamlit web application** that classifies **English accents** from
 
 ## 🚀 Try It Out
 > ⚠️ **Note:** The app may take approximately **30 seconds** to classify the accent, depending on audio length and server load.
-1. Copy this sample video URL:
+### 1. Copy this sample video URL:
 ```plaintext
 https://www.loom.com/share/002508e86fde4232bb8de474eb5c65c4?sid=62a90dca-4600-491a-aa35-1ed119580294
 ```
@@ -36,11 +36,11 @@ https://www.loom.com/share/002508e86fde4232bb8de474eb5c65c4?sid=62a90dca-4600-49
 https://www.bbc.com/news/videos/cdxvlr0gqw0o
 ```
 
-2. Open the demo app on Hugging Face Spaces:
+### 2. Open the demo app on Hugging Face Spaces:
 ```plaintext
 https://huggingface.co/spaces/7H4M3R/Audio
 ```
-3. Paste the URL into the app to classify the accent.
+### 3. Paste the URL into the app to classify the accent.
 
 
 ## 🐳 Run with Docker (Locally)
