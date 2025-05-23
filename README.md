@@ -37,9 +37,8 @@ https://www.bbc.com/news/videos/cdxvlr0gqw0o
 ```
 
 ### 2. Open the demo app on Hugging Face Spaces:
-```plaintext
 https://huggingface.co/spaces/7H4M3R/Audio
-```
+
 ### 3. Paste the URL into the app to classify the accent.
 
 
