@@ -1,0 +1,9 @@
+pandas
+streamlit
+yt_dlp 
+ffmpeg-python 
+torchaudio 
+transformers
+pandas
+numpy
+# openai-whisper
